@@ -32,9 +32,7 @@ Yui is a work in progress, and we have a lot of exciting features planned for th
 To get started with Yui in your project, simply follow these simple steps:
 
 ```bash
-git clone https://github.com/your-username/yui.git
-cd yui
-composer install
+/....
 #....
 ```
 
