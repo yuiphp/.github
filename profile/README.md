@@ -13,7 +13,7 @@ Yui is a work in progress, and we have a lot of exciting features planned for th
 - **Simplicity and Elegance**: Yui adopts a clear and elegant syntax, making development simpler and more enjoyable.
 - **Productivity**: With features like robust CLI, and database migration support, Yui helps you be more productive.
 - **Active Community**: While it's a study-oriented project, Yui is supported by an active community of developers committed to sharing knowledge and experience.
-- **Inspired by Laravel**:w If you've orked with Laravel, you'll feel at home with Yui.
+- **Inspired by Laravel**: If you've orked with Laravel, you'll feel at home with Yui.
 
 ## Main Features
 
@@ -31,9 +31,10 @@ Yui is a work in progress, and we have a lot of exciting features planned for th
 
 To get started with Yui in your project, simply follow these simple steps:
 
+<em>The use of the framework is not yet recommended as it is still under development</em>
+
 ```bash
-/....
-#....
+composer create-project yuiphp/yui <project-name> -s dev
 ```
 
 ## Contributing
